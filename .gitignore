@@ -1,0 +1,11 @@
+
+.gradle
+classes
+distributions
+generated
+reports
+scripts
+test-results
+tmp
+# Project exclude paths
+/build/
